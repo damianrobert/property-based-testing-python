@@ -1,7 +1,7 @@
 # Property-Based Testing cu Hypothesis (Python)
 
 **Disciplina:** Testarea sistemelor software  
-**Autori:** Radulescu Damian, Gujan Nicoleta
+**Autori:** Radulescu Damian & Gujan Nicoleta
 **Tema:** Testarea bazată pe proprietăți folosind biblioteca Hypothesis (Python)
 
 ---

@@ -29,6 +29,7 @@ def test_sort_concat_equivalence(xs, ys):
     i = j = 0
     merged = []
     while i < len(sx) and j < len(sy):
+        # merge ordonat
         if sx[i] <= sy[j]:
             merged.append(sx[i])
             i += 1
